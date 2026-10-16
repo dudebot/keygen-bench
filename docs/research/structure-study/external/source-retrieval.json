@@ -1,0 +1,72 @@
+[
+  {
+    "label": "eq4",
+    "url": "https://eqbench.com/index.html",
+    "retrieved_at_utc": "2026-10-16T15:27:34.780253+00:00",
+    "status": 200,
+    "sha256": "7dd51b661112fa95fea5d6e42f96cc73797d82107e942b1e061b4a018f19b3b4",
+    "last_modified": null,
+    "etag": null
+  },
+  {
+    "label": "creative_v3",
+    "url": "https://eqbench.com/creative_writing.html",
+    "retrieved_at_utc": "2026-10-16T15:27:34.989050+00:00",
+    "status": 200,
+    "sha256": "7f7f91dec3f0cfc544533338c81e8224162de1c811eb62adb920d2c2823bbdd7",
+    "last_modified": null,
+    "etag": null
+  },
+  {
+    "label": "swebench",
+    "url": "https://www.swebench.com/",
+    "retrieved_at_utc": "2026-10-16T15:27:35.479125+00:00",
+    "status": 200,
+    "sha256": "d1ab4d291a7809d902749b6ecaccfc0f2461bf29e4b4874700d67d75cd9e96fd",
+    "last_modified": null,
+    "etag": null
+  },
+  {
+    "label": "tbench",
+    "url": "https://www.tbench.ai/",
+    "retrieved_at_utc": "2026-10-16T15:27:35.977350+00:00",
+    "status": 200,
+    "sha256": "88ad054096253e673784501a1348348f73788b4e81580062332ffcac178f6e39",
+    "last_modified": null,
+    "etag": null
+  },
+  {
+    "name": "eq4_data",
+    "url": "https://eqbench.com/eqbench4/eqbench4_data.js?v=20260725-neighbours",
+    "retrieved_at": "2026-10-16T15:30:27.513446+00:00",
+    "sha256": "188d8ea4a393978063a6c24dff6c92ce185169827038bfa558091212a68c29d8",
+    "bytes": 1055693
+  },
+  {
+    "name": "creative_data",
+    "url": "https://eqbench.com/creative_writing_chartdata.js?v=1.0.91",
+    "retrieved_at": "2026-10-16T15:30:27.786002+00:00",
+    "sha256": "0c41b41e15e7ad17d00e9042eae0d36d20ad66348bfab833c9ab580e7ea44214",
+    "bytes": 335045
+  },
+  {
+    "name": "creative_table",
+    "url": "https://eqbench.com/creative_writing.js?v=1.0.91",
+    "retrieved_at": "2026-10-16T15:30:28.147767+00:00",
+    "sha256": "722ddb132e8d3a5e5c39b8d445f8475f3f7e24893a007260c6f3e3cce5c1ee18",
+    "bytes": 1220549
+  },
+  {
+    "name": "swe_results_js",
+    "url": "https://www.swebench.com/js/mainResults.js",
+    "retrieved_at": "2026-10-16T15:30:28.350136+00:00",
+    "sha256": "f8afd60f7b6d3aeba34db407fb7f04faadd18c0474c147ffa013baebccfea616",
+    "bytes": 25315
+  },
+  {
+    "url": "https://swe-rebench.com/leaderboard",
+    "retrieved_at": "2026-10-16T15:31:29.188305+00:00",
+    "sha256": "fbb1b659562843da266aa20ec2295253d727ccd9b9469c78ab32df6fad1fffed",
+    "bytes": 7789901
+  }
+]

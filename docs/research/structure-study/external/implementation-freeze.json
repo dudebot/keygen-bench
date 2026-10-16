@@ -1,0 +1,12 @@
+{
+  "frozen_utc": "2026-10-16T15:42:08.399901+00:00",
+  "before_first_music_join": true,
+  "protocol_sha256": "4a0d8db07ac445f9dfb2115358cf658715940f13a434e32042064aa307ae7b0b",
+  "analysis_code_sha256": "1f3e65c89936f4430e1aba2e9acfd27c77b6d0c153305242402bff050c590a64",
+  "eligibility": "Primary row-start descriptors require complete symbolic extraction and existing feature eligibility; audio and CE have their own finite audio eligibility. Strict sensitivity filters all descriptors to complete and strict nominal-timing rows.",
+  "mix_population": "Ranks fixed on external complete-case version intersection before music feature missingness and family deletion.",
+  "targets": "EQ4,CW3,SWE_latest,SWE_preceding,mix_latest,mix_preceding",
+  "features": "current_SSM,P,H,official_ce,local_ce,mel_SSM,chroma_SSM,symbolic_SSM,prefix_current_SSM,prefix_P,prefix_H",
+  "cohorts": "ranked-slot median primary, all-history including ranked medians sensitivity",
+  "inference": "No CI or p-values; individual leave-one-family-out ranges and model-count denominators."
+}

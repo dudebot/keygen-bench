@@ -4,6 +4,9 @@
 
 ### Added
 
+- Optional offline onset-symbol research diagnostics with a frozen specification, prequential coding and pitch-set transport descriptors, source hashes and explicit extraction eligibility. Synthetic regression tests retain failed continuity and loop-inflation hypotheses; no evaluator or leaderboard behavior changes.
+- Research-fork reading guide, graph gallery, controlled scoring counterexamples, historical listening links and reproducible roleplay/creativity/coding comparisons. Enjoyment is one comparison criterion; production scoring is unchanged.
+
 - MIT License for original code and documentation; third-party assets keep their own licenses.
 - Community-run guide, three-attempt runner, bundle validator, submission templates and trusted-base validation workflow.
 - FT2-style results site with per-model routes, attempt selection, loop playback, scoring explanations and generated Open Graph cards.

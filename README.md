@@ -1,3 +1,5 @@
+> **[Research fork: structure diagnostics study](docs/research/structure-study/README.md)** — graph gallery, historical listening queue, reproducible diagnostics and honest negative findings. The original benchmark is preserved below.
+
 <p align="center">
   <img src=".github/assets/banner.png" alt="keygen bench" width="900">
 </p>
@@ -69,6 +71,8 @@ node --test tests/test_classic_player.mjs tests/test_classic_rankings.mjs
 ```
 
 some integration tests need the pinned dependencies or a native FT2 build. passing offline tests doesn't establish provider access, musical quality or production readiness.
+
+Optional [onset structure research diagnostics](docs/structure-diagnostics.md) run offline with the Python standard library. They report predictive coding and pitch-set transport evidence, including documented failures of the experimental combined scalar hypotheses, and do not change scoring.
 
 ## support
 

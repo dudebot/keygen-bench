@@ -1,0 +1,713 @@
+[
+  {
+    "target": "EQ4",
+    "model": "claude-opus-5",
+    "external_model": "claude-opus-5",
+    "score": 1385.0,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "claude-fable-5",
+    "external_model": "claude-fable-5",
+    "score": 1340.4,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "kimi-k3",
+    "external_model": "moonshotai/kimi-k3",
+    "score": 1339.3,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "gpt-5.5",
+    "external_model": "openai/gpt-5.5",
+    "score": 1314.8,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "claude-opus-4.7",
+    "external_model": "claude-opus-4-7",
+    "score": 1311.3,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "claude-opus-4.8",
+    "external_model": "claude-opus-4-8",
+    "score": 1281.4,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "gpt-5.4",
+    "external_model": "openai/gpt-5.4",
+    "score": 1271.8,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "gpt-5.6-sol",
+    "external_model": "openai/gpt-5.6-sol",
+    "score": 1250.3,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "claude-sonnet-5",
+    "external_model": "claude-sonnet-5",
+    "score": 1236.0,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "gpt-5.6-terra",
+    "external_model": "openai/gpt-5.6-terra",
+    "score": 1234.0,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "claude-opus-4.6",
+    "external_model": "claude-opus-4-6",
+    "score": 1222.7,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "glm-5.2",
+    "external_model": "z-ai/glm-5.2",
+    "score": 1221.9,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "claude-sonnet-4.6",
+    "external_model": "claude-sonnet-4-6",
+    "score": 1206.5,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "kimi-k2.6",
+    "external_model": "moonshotai/kimi-k2.6",
+    "score": 1201.6,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "gpt-5.6-luna",
+    "external_model": "openai/gpt-5.6-luna",
+    "score": 1156.3,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "minimax-m3",
+    "external_model": "minimax/minimax-m3",
+    "score": 1149.7,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "gemini-3.1-pro-preview",
+    "external_model": "google/gemini-3.1-pro-preview",
+    "score": 1142.3,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "gemma-4-31b-it",
+    "external_model": "google/gemma-4-31b-it",
+    "score": 1120.3,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "qwen3.7-max",
+    "external_model": "qwen/qwen3.7-max",
+    "score": 1109.7,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "grok-4.3",
+    "external_model": "x-ai/grok-4.3",
+    "score": 1074.8,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "EQ4",
+    "model": "claude-haiku-4.5",
+    "external_model": "claude-haiku-4-5-20251001",
+    "score": 1063.9,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gpt-6-astra",
+    "external_model": "*gpt-6-astra",
+    "score": 2173.3,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "claude-fable-5.1",
+    "external_model": "*claude-fable-5-1",
+    "score": 2162.0,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "claude-opus-5",
+    "external_model": "claude-opus-5",
+    "score": 2132.6,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gpt-6-sol",
+    "external_model": "*gpt-6-sol",
+    "score": 2124.7,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "kimi-k3",
+    "external_model": "kimi-k3",
+    "score": 2082.3,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "claude-opus-5.5",
+    "external_model": "*claude-opus-5-5",
+    "score": 2050.1,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "grok-4.7",
+    "external_model": "*grok-4.7",
+    "score": 2006.7,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gpt-5.6-sol",
+    "external_model": "gpt-5.6-sol",
+    "score": 1971.6,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "claude-fable-5",
+    "external_model": "claude-fable-5",
+    "score": 1943.1,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "claude-opus-4.7",
+    "external_model": "claude-opus-4-7",
+    "score": 1914.3,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gpt-5.6-terra",
+    "external_model": "gpt-5.6-terra",
+    "score": 1854.9,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gpt-5.5",
+    "external_model": "gpt-5.5",
+    "score": 1843.9,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "claude-opus-4.8",
+    "external_model": "claude-opus-4-8",
+    "score": 1839.8,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gpt-5.4",
+    "external_model": "gpt-5.4",
+    "score": 1839.7,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gpt-5.6-luna",
+    "external_model": "gpt-5.6-luna",
+    "score": 1828.7,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "claude-sonnet-4.6",
+    "external_model": "claude-sonnet-4-6",
+    "score": 1810.4,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "claude-opus-4.6",
+    "external_model": "claude-opus-4-6",
+    "score": 1809.1,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "claude-sonnet-5",
+    "external_model": "claude-sonnet-5",
+    "score": 1794.0,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gemini-3.8-flash",
+    "external_model": "*gemini-3.8-flash",
+    "score": 1747.9,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gemini-3.7-flash",
+    "external_model": "gemini-3.7-flash",
+    "score": 1723.2,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "claude-opus-4.5",
+    "external_model": "claude-opus-4-5-20251101",
+    "score": 1686.7,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "qwen3.8-27b",
+    "external_model": "Qwen/Qwen3.8-27B",
+    "score": 1671.3,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gpt-5.4-mini",
+    "external_model": "gpt-5.4-mini",
+    "score": 1665.0,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gemini-3.6-flash",
+    "external_model": "gemini-3.6-flash",
+    "score": 1603.5,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "grok-4.5",
+    "external_model": "grok-4.5",
+    "score": 1578.8,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "deepseek-v4.1-flash",
+    "external_model": "*deepseek-v4.1-flash",
+    "score": 1540.1,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gemini-3.1-pro-preview",
+    "external_model": "gemini-3.1-pro-preview",
+    "score": 1491.3,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "qwen3.5-397b-a17b",
+    "external_model": "Qwen/Qwen3.5-397B-A17B",
+    "score": 1478.2,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "hermes-4-405b",
+    "external_model": "NousResearch/Hermes-4-405B",
+    "score": 1420.8,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "minimax-m2.5",
+    "external_model": "minimax/minimax-m2.5",
+    "score": 1361.0,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gpt-oss-120b",
+    "external_model": "openai/gpt-oss-120b",
+    "score": 961.0,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "CW3",
+    "model": "gpt-oss-20b",
+    "external_model": "openai/gpt-oss-20b",
+    "score": 665.6,
+    "effort": "benchmark default; per-model setting unavailable in table",
+    "source_url": "https://eqbench.com/creative_writing.html",
+    "window": ""
+  },
+  {
+    "target": "SWE_preceding",
+    "model": "claude-opus-4.6",
+    "external_model": "Claude Opus 4.6-high",
+    "score": 47.81818181818182,
+    "effort": "high",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1772323200000:1778803200000",
+    "source_sem": 1.3666633071248102,
+    "model_release_date": "2026-02-05",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_preceding",
+    "model": "gemini-3.1-pro-preview",
+    "external_model": "Gemini 3.1 Pro Preview",
+    "score": 51.0909090909091,
+    "effort": "not specified",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1772323200000:1778803200000",
+    "source_sem": 1.199173268933902,
+    "model_release_date": "2026-02-19",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_preceding",
+    "model": "claude-sonnet-4.6",
+    "external_model": "Claude Sonnet 4.6",
+    "score": 51.272727272727266,
+    "effort": "not specified",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1772323200000:1778803200000",
+    "source_sem": 0.5454545454545447,
+    "model_release_date": "2026-02-17",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_preceding",
+    "model": "gpt-5.4",
+    "external_model": "gpt-5.4-2026-03-05-medium",
+    "score": 54.90909090909091,
+    "effort": "medium",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1772323200000:1778803200000",
+    "source_sem": 1.0204520145747118,
+    "model_release_date": "2026-03-05",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_preceding",
+    "model": "claude-opus-4.7",
+    "external_model": "Claude Opus 4.7-high",
+    "score": 53.090909090909086,
+    "effort": "high",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1772323200000:1778803200000",
+    "source_sem": 1.4545454545454541,
+    "model_release_date": "2026-04-16",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_preceding",
+    "model": "gpt-5.5",
+    "external_model": "gpt-5.5-2026-04-23-medium",
+    "score": 58.909090909090914,
+    "effort": "medium",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1772323200000:1778803200000",
+    "source_sem": 0.7820295697311489,
+    "model_release_date": "2026-04-23",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_preceding",
+    "model": "kimi-k2.6",
+    "external_model": "Kimi K2.6",
+    "score": 46.54545454545455,
+    "effort": "not specified",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1772323200000:1778803200000",
+    "source_sem": 1.2662171161076474,
+    "model_release_date": "2026-03-01",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_preceding",
+    "model": "claude-opus-4.8",
+    "external_model": "Claude Opus 4.8-xhigh",
+    "score": 56.545454545454554,
+    "effort": "xhigh",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1772323200000:1778803200000",
+    "source_sem": 1.199173268933903,
+    "model_release_date": "2026-05-28",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_latest",
+    "model": "minimax-m3",
+    "external_model": "MiniMax M3",
+    "score": 47.207207207207205,
+    "effort": "not specified",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1778803200000:1782864000000",
+    "source_sem": 1.125224864576288,
+    "model_release_date": "2026-05-31",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_preceding",
+    "model": "minimax-m3",
+    "external_model": "MiniMax M3",
+    "score": 45.63636363636363,
+    "effort": "not specified",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1772323200000:1778803200000",
+    "source_sem": 1.2662171161076474,
+    "model_release_date": "2026-05-31",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_latest",
+    "model": "glm-5.2",
+    "external_model": "GLM-5.2 [high]",
+    "score": 62.88288288288288,
+    "effort": "high",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1778803200000:1782864000000",
+    "source_sem": 1.1883699061507138,
+    "model_release_date": "2026-05-16",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_preceding",
+    "model": "glm-5.2",
+    "external_model": "GLM-5.2 [high]",
+    "score": 51.090909090909086,
+    "effort": "high",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1772323200000:1778803200000",
+    "source_sem": 1.1281521496355318,
+    "model_release_date": "2026-05-16",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_latest",
+    "model": "gpt-5.6-luna",
+    "external_model": "GPT-5.6 Luna [medium]",
+    "score": 43.6036036036036,
+    "effort": "medium",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1778803200000:1782864000000",
+    "source_sem": 1.4693249036306386,
+    "model_release_date": "2026-06-26",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_latest",
+    "model": "gpt-5.6-sol",
+    "external_model": "GPT-5.6 Sol [medium]",
+    "score": 62.34234234234235,
+    "effort": "medium",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1778803200000:1782864000000",
+    "source_sem": 1.833062157601424,
+    "model_release_date": "2026-06-26",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_latest",
+    "model": "grok-4.5",
+    "external_model": "Grok 4.5 [high]",
+    "score": 63.78378378378379,
+    "effort": "high",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1778803200000:1782864000000",
+    "source_sem": 0.5975900523162895,
+    "model_release_date": "2026-07-08",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_latest",
+    "model": "claude-fable-5",
+    "external_model": "Fable 5 [high]",
+    "score": 64.5045045045045,
+    "effort": "high",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1778803200000:1782864000000",
+    "source_sem": 1.4130078505728048,
+    "model_release_date": "2026-06-09",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_latest",
+    "model": "claude-opus-5",
+    "external_model": "Opus 5 [high]",
+    "score": 63.42342342342343,
+    "effort": "high",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1778803200000:1782864000000",
+    "source_sem": 1.35435102507864,
+    "model_release_date": "2026-07-24",
+    "agent": "tools",
+    "instance_type": "model"
+  },
+  {
+    "target": "SWE_latest",
+    "model": "claude-sonnet-5",
+    "external_model": "Sonnet 5 [high]",
+    "score": 56.75675675675676,
+    "effort": "high",
+    "source_url": "https://swe-rebench.com/leaderboard",
+    "window": "1778803200000:1782864000000",
+    "source_sem": 0.9448728361893257,
+    "model_release_date": "2026-06-30",
+    "agent": "tools",
+    "instance_type": "model"
+  }
+]

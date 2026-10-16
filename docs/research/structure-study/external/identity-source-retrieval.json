@@ -1,0 +1,146 @@
+[
+  {
+    "model": "claude-fable-5",
+    "source_url": "https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-5",
+    "final_url": "https://platform.claude.com/docs/en/models/overview",
+    "retrieved_utc": "2026-10-16T15:39:18.433755+00:00",
+    "file": "identity-claude-fable-5.html",
+    "sha256": "1d626091d0de031853f3b5a3a9037c3e3087b8af932d85a8891f35d4d8c152ba"
+  },
+  {
+    "model": "claude-opus-5",
+    "source_url": "https://platform.claude.com/docs/en/claude_api_primer",
+    "final_url": "https://platform.claude.com/docs/en/claude_api_primer",
+    "retrieved_utc": "2026-10-16T15:39:18.127489+00:00",
+    "file": "identity-claude-opus-5.html",
+    "sha256": "e336d4952f6f1ae3bc3b9eb6fc3bfd63334a2a0038f8525d1930ae87be971e54"
+  },
+  {
+    "model": "claude-sonnet-5",
+    "source_url": "https://platform.claude.com/docs/en/docs/about-claude/models/whats-new-sonnet-5",
+    "final_url": "https://platform.claude.com/docs/en/models/sonnet-5/overview",
+    "retrieved_utc": "2026-10-16T15:39:18.361478+00:00",
+    "file": "identity-claude-sonnet-5.html",
+    "sha256": "3bd523a62ff9773c7a7f5d48f55d854ad474758f4f16fe48150d7e0838a07edf"
+  },
+  {
+    "model": "gpt-5.6-sol",
+    "source_url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+    "final_url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+    "retrieved_utc": "2026-10-16T15:39:17.997371+00:00",
+    "file": "identity-gpt-5.6-sol.html",
+    "sha256": "0894535e592324a2a5503bf08d8cb0b0b4424eb536a8f0e5642efcfa3f277aa2"
+  },
+  {
+    "model": "gpt-5.6-luna",
+    "source_url": "https://developers.openai.com/api/docs/models/gpt-5.6-luna",
+    "final_url": "https://developers.openai.com/api/docs/models/gpt-5.6-luna",
+    "retrieved_utc": "2026-10-16T15:39:18.067551+00:00",
+    "file": "identity-gpt-5.6-luna.html",
+    "sha256": "1155d98a0236f8fede928a9c37de318d733bdb51dc2f4c7a28c7dc5688578b85"
+  },
+  {
+    "model": "minimax-m3",
+    "source_url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+    "final_url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+    "retrieved_utc": "2026-10-16T15:39:18.004134+00:00",
+    "file": "identity-minimax-m3.html",
+    "sha256": "7f773ac283392608120962a1c75b1c970e06e85e4944e32e2872674b8eaa17ff"
+  },
+  {
+    "model": "glm-5.2",
+    "source_url": "https://docs.z.ai/guides/llm/glm-5.2",
+    "final_url": "https://docs.z.ai/guides/llm/glm-5.2",
+    "retrieved_utc": "2026-10-16T15:39:18.609212+00:00",
+    "file": "identity-glm-5.2.html",
+    "sha256": "6f031be45784b000f7f6581bf69615f2018dc06595b1cf78a1b5d4c4aff80d07"
+  },
+  {
+    "model": "claude-opus-4.6",
+    "source_url": "https://platform.claude.com/docs/en/models/opus-4-6/overview",
+    "final_url": "https://platform.claude.com/docs/en/models/opus-4-6/overview",
+    "retrieved_utc": "2026-10-16T15:39:18.446646+00:00",
+    "file": "identity-claude-opus-4.6.html",
+    "sha256": "345525671a572d58157992189cbe5740e819ce73aa4d59439b1e75a2658c1370"
+  },
+  {
+    "model": "claude-sonnet-4.6",
+    "source_url": "https://platform.claude.com/docs/en/models/sonnet-4-6/overview",
+    "final_url": "https://platform.claude.com/docs/en/models/sonnet-4-6/overview",
+    "retrieved_utc": "2026-10-16T15:39:18.440010+00:00",
+    "file": "identity-claude-sonnet-4.6.html",
+    "sha256": "7dfe76e1f62860f7893563c0c136cce62b786dc5f8e56edd9bbd3a4c72fecee7"
+  },
+  {
+    "model": "claude-opus-4.7",
+    "source_url": "https://platform.claude.com/docs/pt-BR/release-notes/system-prompts/claude-opus-4-7",
+    "final_url": "https://platform.claude.com/docs/pt-BR/release-notes/system-prompts/claude-opus-4-7",
+    "retrieved_utc": "2026-10-16T15:39:18.549687+00:00",
+    "file": "identity-claude-opus-4.7.html",
+    "sha256": "c46be6eae06697259ba823bbec1257be8c2f996a53ca3fd1767db0f18cfde757"
+  },
+  {
+    "model": "claude-opus-4.8",
+    "source_url": "https://platform.claude.com/docs/en/models/opus-4-8/overview",
+    "final_url": "https://platform.claude.com/docs/en/models/opus-4-8/overview",
+    "retrieved_utc": "2026-10-16T15:39:18.722877+00:00",
+    "file": "identity-claude-opus-4.8.html",
+    "sha256": "b9161bdb9abf608d0397abd34d2c0836467089226a9a76777e8530e910d24bb3"
+  },
+  {
+    "model": "gpt-5.4",
+    "source_url": "https://developers.openai.com/api/docs/models/gpt-5.4",
+    "final_url": "https://developers.openai.com/api/docs/models/gpt-5.4",
+    "retrieved_utc": "2026-10-16T15:39:18.751811+00:00",
+    "file": "identity-gpt-5.4.html",
+    "sha256": "4912c5ed72ead3bbbd27fe941280cbb2ea527506219f98fd8ee826d2754a9849"
+  },
+  {
+    "model": "gpt-5.5",
+    "source_url": "https://developers.openai.com/api/docs/models/gpt-5.5",
+    "final_url": "https://developers.openai.com/api/docs/models/gpt-5.5",
+    "retrieved_utc": "2026-10-16T15:39:18.767916+00:00",
+    "file": "identity-gpt-5.5.html",
+    "sha256": "af0d68824c07115fc958d2d01f0371396eba98c2d132c28b20e14a468931923b"
+  },
+  {
+    "model": "gemini-3.1-pro-preview",
+    "source_url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.1-pro-preview",
+    "final_url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.1-pro-preview",
+    "retrieved_utc": "2026-10-16T15:39:19.898321+00:00",
+    "file": "identity-gemini-3.1-pro-preview.html",
+    "sha256": "69ec38ab25214e74d307bae543038273d6be1cede21cd7fbdfa300fb03f19aa9"
+  },
+  {
+    "model": "kimi-k2.6",
+    "source_url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+    "final_url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+    "retrieved_utc": "2026-10-16T15:39:18.950712+00:00",
+    "file": "identity-kimi-k2.6.html",
+    "sha256": "0662ff67344a106d2f83a399b5e1c891f05e7b5d26b18f8d2272a38738d88823"
+  },
+  {
+    "model": "grok-4.5",
+    "source_url": "https://docs.x.ai/developers/models/grok-4.5",
+    "final_url": "https://docs.x.ai/developers/models/grok-4.5",
+    "retrieved_utc": "2026-10-16T15:39:18.969976+00:00",
+    "file": "identity-grok-4.5.html",
+    "sha256": "94a65f28dd623a114be3cc1f77bbb70765188987034606fb2609a5a45d64916c"
+  },
+  {
+    "model": "deepseek-v4-pro",
+    "source_url": "https://api-docs.deepseek.com/news/news260813/",
+    "final_url": "https://api-docs.deepseek.com/news/news260813/",
+    "retrieved_utc": "2026-10-16T15:39:19.486630+00:00",
+    "file": "identity-deepseek-v4-pro.html",
+    "sha256": "28177c18ec3809805c011b69e36e1829a5d0021faf804e43a023a4aa318918df"
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "source_url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash.md",
+    "final_url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash.md",
+    "retrieved_utc": "2026-10-16T15:39:20.175836+00:00",
+    "file": "identity-gemini-3.5-flash.html",
+    "sha256": "bb96347a55f748e88ff9506126dbf9c300753faa21738baa4ca1c2fe13b3d57c"
+  }
+]

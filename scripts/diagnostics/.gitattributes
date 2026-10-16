@@ -1,0 +1,2 @@
+# Preserve the frozen specification byte hash across checkout platforms.
+structure_spec.json -text

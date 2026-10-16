@@ -1,0 +1,82 @@
+{
+  "method_id": "structured-variation-preregistered-v1",
+  "status": "theory specification frozen before numerical enjoyment joins; fixture failures may cause versioned amendments",
+  "target": "learnable nonliteral variation, not universal musical quality",
+  "api": {
+    "function": "describe_events(events, total_ticks, source_metadata=None)",
+    "events": "list of dictionaries {tick: integer, pitch: integer, channel: integer}; ticks use traversed tracker speed clock, BPM ignored",
+    "output": "JSON serializable dictionary with method_id, eligibility, limitations, invariants, feature_hash, predictive, variation, cycle, geometry, candidates"
+  },
+  "canonicalization": {
+    "time_origin": "subtract first eligible onset tick from every event and total_ticks; total_ticks is exclusive end of traversed authored timeline",
+    "time_unit": "one tracker tick; 24 ticks per conventional musical beat; row advances by active speed; speed effects applied on same row as native engine",
+    "exact_events": "merge events at identical tick into SET of pitch classes pitch modulo 12; discard channel, instrument, amplitude and duplicate pitch classes",
+    "pitch_sequence": "bitmask at each distinct nonempty onset tick; K=4096",
+    "ioi_sequence": "consecutive positive onset gaps; token=min(gap,385); K=386; overflow fraction reported",
+    "random_seed": 20261016,
+    "seed_policy": "same fixed seed for all sources; never seed on raw XM bytes; deterministic event and phase ordering",
+    "eligibility": "no onsets => all candidate scalars null; fewer than 32 distinct onset times => predictive eligibility false, candidates null; fewer than two nonempty windows at all variation settings => candidates null"
+  },
+  "predictive": {
+    "orders": [0,1,2,4,8],
+    "prior_total_mass": 1.0,
+    "p0": "(previous_count(symbol)+1/K)/(number_of_previous_symbols+1)",
+    "pk": "(previous_count(context,symbol)+p0)/(previous_count(context)+1); if t<k use p0; only update context models with full k-symbol history",
+    "mixture": "Bayesian sequence mixture; initial weight 1/5; predict sum_k weight_k*pk then weight_k *= pk/p_mixture, in log domain",
+    "loss": "negative sum log2(probability), scored before current event updates",
+    "surrogates": 8,
+    "pitch_null": "independently permute pitch-set labels among onset indices within equal (tick modulo 24) groups; preserve timestamps, phase-conditioned marginals and polyphony cardinality distribution within phase",
+    "ioi_null": "permute IOI tokens globally; preserve their empirical marginal",
+    "raw_gain": "L0-Lmixture",
+    "gain_per_view": "clip((raw_gain-median(surrogate_raw_gains))/max(L0,1),0,1)",
+    "aggregate": "P=(pitch_gain+ioi_gain)/2",
+    "null_interpretation": "effect-size correction only, not a calibrated p-value; eight draws insufficient for conventional small significance levels"
+  },
+  "variation": {
+    "width_ticks": [96,192],
+    "offset_fraction": [0.0,0.5],
+    "window": "nonoverlapping complete windows from offset to exclusive total_ticks; omit empty windows and report their fraction; fingerprint sorted (relative_tick,pitch_set_bitmask)",
+    "per_setting": "(number_of_unique_nonempty_fingerprints-1)/(number_of_nonempty_windows-1) when number_of_nonempty_windows>=2 else null",
+    "aggregate": "V=mean of non-null settings; report setting count and all four values"
+  },
+  "short_cycle_guard": {
+    "maximum_period_ticks": 384,
+    "minimum_complete_repetitions": 3,
+    "exact_definition": "find smallest integer p in 1..384 such that total_ticks is divisible by p, total_ticks/p>=3, and canonical sparse onset-mask map exactly tiles p over total_ticks; no approximate or partial-tail matches",
+    "guard": "G=0 if such p exists; G=1 otherwise",
+    "scope": "rejects exact short complete cycles only; intro, tail, longer cycle or one changed event can defeat this guard"
+  },
+  "geometry": {
+    "name": "onset_pitch_set_transport_organization",
+    "mass": "uniform probability on distinct pitch classes at each onset",
+    "cost": "c(a,b)=min(abs(a-b),12-abs(a-b))/6",
+    "transport": "minimum mass-weighted cost between successive onset sets; equal and unequal cardinalities allowed; use exact circular one-dimensional Wasserstein or linear programming and memoize ordered mask pairs",
+    "circular_formula": "for 12-bin probability vectors u,v, let f_j=sum_{k=0}^j(u_k-v_k); W=(sum_j abs(f_j-median(f)))/6",
+    "actual": "mean W over adjacent onset sets; no last-to-first seam unless separately reported",
+    "null": "same eight phase-conditioned pitch-label permutations as predictive pitch test",
+    "score": "H=(median(null_mean_W)-actual_mean_W)/max(median(null_mean_W),1/12); signed and unclipped",
+    "report": ["actual_mean_W", "null_mean_W_values", "H", "polyphonic_onset_fraction", "unique_pitch_set_count"],
+    "interpretation": "ordered pitch geometry relative to phase-conditioned reorderings; not realized voice leading, consonance, tonal function, or perceptual harmony"
+  },
+  "candidates": {
+    "primary_C1": "P*V*G",
+    "secondary_C2": "P*sqrt(V)*G",
+    "family_size": 2,
+    "selection": "C1 remains primary even if C2 correlates better in exploratory full-data analysis; any selected candidate needs untouched grouped holdout",
+    "excluded_from_scalar": ["geometry H", "raw entropy", "listener labels", "provider or model identity", "instrument count", "timbral validity"]
+  },
+  "required_fixtures": [
+    "channel layouts8/10/16/20 with fixed musical content: exact equality",
+    "permutation, empty channel padding, unison and octave doubling, equivalent track split/merge: exact equality",
+    "132 versus131.999 BPM externally represented: exact equality; XM BPM integer limitation recorded",
+    "double row resolution with half speed and same musical event times: exact equality",
+    "constant global transposition: equality to floating tolerance with identical surrogate index permutations",
+    "pure complete short loop>=3 repeats: C1=C2=0",
+    "fixed-length random and marginal-matched shuffles: predictive gain low in ensemble, no universal single-seed ordering claim",
+    "theme variation, random suffix, loop plus random insertions, independent patterned carrier plus noise: adversarial diagnostics",
+    "geometric adjacent-semitone progression versus shuffled order: transport test responds in expected direction",
+    "constant chromatic aggregate: geometry0/null, expose loss of melodic voice information",
+    "monophonic case: geometry interpreted as melodic step economy",
+    "all missing or unsupported extraction states retained as explicit ineligible rows"
+  ]
+}

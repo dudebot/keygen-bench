@@ -1,0 +1,21 @@
+{
+  "analyze_external_proxy.py": "e540e0582e0be7a28954ea8bfc430e936c6915b3f008ca2785224077c5dd2fc0",
+  "associations.csv": "9f74736ef9c7d499c4e4398165899da295b49d885c0d841c73f65acde0d72ac2",
+  "associations.png": "14a609ac9caf078d029a8dfc7cec4d2063511cf4babe3e30bfe8c28b28622409",
+  "descriptor-pairs.csv": "78f0d6674ee6221924b506ef707b8cf7149248e4f5635be3bb61de85984a59b7",
+  "external-scores.json": "142e1557398a64b0a05aae3b6074a576d8c7bf0c5ffb4f8016e6273f8072c755",
+  "family-deletions.csv": "d721e348ef137e9582a77fd8e6ee060cea7db5873ad1881467a69c3adffaef1c",
+  "freeze.json": "854a80f47f72acebe385d7a119f3fb761659136ec08f13894875cadb54b85a87",
+  "identity-evidence-addendum.json": "456f824bf0e778c5113f0c103a71df56b78bb856a2b1eadd1ac0dbaa5f0ce861",
+  "identity-mapping.json": "7fe713165ea326d24a3b82b1d02be43bf228d50765a716443ee14d6b116d3dcb",
+  "identity-source-retrieval.json": "f73e6cfe3b5a2f6d4a8386feb0bf98bfcfca8865f7fee701d6526be278ca0620",
+  "implementation-freeze.json": "e40bc03b9320186bba89ab84a8fe810c8bd3698c2944b4d3a6aadd6aa100fc27",
+  "joined-models.csv": "82fed86800a89f8a0c4dbb812ff08257a616fde95ecff568ba3406e0bcdd8713",
+  "latest-mix-scatter.png": "b7b59bd3bdfed0ec8b86cd5d9f1aa8cc141c5f5d5635b89afc27968a3d2f7f00",
+  "model-medians.csv": "0f7881277592aea1eb29e8cfdc4c64034e0ade4b66f45b4a7f7f070d78889e18",
+  "music-input.csv": "7c8749c1ce68f7abb740375c84586255d6a34ee5a48ec9afe42f0d820d2c3010",
+  "protocol.md": "ac0cfbc425c4461010bf67c8fde6657172d86aa22f7d77445f969df3aea7bbe7",
+  "results.json": "63015575bdff13cf4f9b0c68068fdd54a187a86c85275cf7eec9a381137eab8e",
+  "results.md": "a7161b635e5781c9abfbf084456db083d61e5b1ab110de662e131c4e19fa0032",
+  "source-retrieval.json": "1345445fbff89962385df706ca86e4e5002213c876667a7f1699ed26ba3138f5"
+}

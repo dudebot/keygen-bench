@@ -146,6 +146,8 @@ At 4, 8 and 16 beats, each passage contains its distinct sequenced voices. A voi
 
 Calibration metadata is in `data/keygen-scoring-reference.json` and `data/keygen-duration-reference.json`. The reference music itself is not distributed. Changes to scoring source, the listener identity, numerical dependencies or renderer identity change evaluation provenance.
 
+An optional [offline onset structure research tool](../docs/structure-diagnostics.md) reports prequential coding and ordered pitch-set transport separately from these production diagnostics. Its combined scalar hypotheses failed documented structural adversaries. It does not alter scoring or evaluations.
+
 For a read-only review rescore without changing source profiles, including historical craft-v7/craft-v9 and listener-v1 profiles:
 
 ```sh

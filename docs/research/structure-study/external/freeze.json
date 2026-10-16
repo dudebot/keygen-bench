@@ -1,0 +1,19 @@
+{
+  "protocol_sha256": "4a0d8db07ac445f9dfb2115358cf658715940f13a434e32042064aa307ae7b0b",
+  "approved_before_music_join": true,
+  "mapping_frozen_utc": "2026-10-16T15:39:17.419422+00:00",
+  "identity_scope": "Reviewed named model release; not proof of identical weight revision, provider, quantization, or reasoning budget.",
+  "configuration_rule": "medium if multiple; otherwise sole reported configuration; never highest-score selection",
+  "source_files": {
+    "eq4-data.json": "dfd2f8f7733feed99fd4b35b262cc729a451ed94e077ff37e19d634fde85df1e",
+    "creative-data.json": "56dcc368faec9b538b2f40895118032bfd48c196ac1ad00eddd059c286aaad7e",
+    "swe-rebench-items.json": "fff60a68184e28768a56ab9e682f823df58e591d4cc6d1a2e073dff552ab7781",
+    "eq4-token-matches.json": "c23c10f5037579e29f1a80d4eaa7d6354a71e77766c89425d0b0a67452d2a49e",
+    "creative-token-matches.json": "5ce1cfd65de8bcb8c66bc7a7cb4327af0d9d6cd80e3b9dabef95a24f48d6cbb1"
+  },
+  "external_scores_sha256": "142e1557398a64b0a05aae3b6074a576d8c7bf0c5ffb4f8016e6273f8072c755",
+  "identity_mapping_sha256": "7fe713165ea326d24a3b82b1d02be43bf228d50765a716443ee14d6b116d3dcb",
+  "original_frozen_external_scores_sha256": "7a79035955586733ccde30b799ccf8008bbc8cc96d67fb2bc28655c57944f22e",
+  "original_frozen_identity_mapping_sha256": "c9bf571038e657e04f13061e7416f7ae02538a44393a1015733e17de883bc557",
+  "publication_note": "UTF-8 LF normalization only; parsed JSON values identical to original frozen inputs."
+}

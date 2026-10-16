@@ -1,0 +1,26 @@
+{
+  "attempt_records": 730,
+  "ranked_slots": 270,
+  "historical_other_records": 460,
+  "model_directories": 99,
+  "canonical_XMs": 415,
+  "parsed_XMs": 410,
+  "canonical_renders": 409,
+  "audio_SSM_successes": 407,
+  "official_hash_linked_CE": 241,
+  "local_CE": 409,
+  "newly_rated_historical": 165,
+  "independent_frozen_fixtures": 246,
+  "independent_explicit_gates": 76,
+  "failed_gates": 12,
+  "shipped_fixture_subset": 57,
+  "standalone_tests": 32,
+  "baseline_tests": 24,
+  "listener_agreement": {
+    "official_overlap": 241,
+    "official_gpu_max_abs_ce_difference": 5.9604644775390625e-06,
+    "official_gpu_mean_abs_ce_difference": 2.429198427319032e-06,
+    "official_gpu_spearman": 0.9999974280706373,
+    "cpu_anchor_n": 12
+  }
+}

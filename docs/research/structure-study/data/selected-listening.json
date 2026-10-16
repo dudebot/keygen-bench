@@ -1,0 +1,58 @@
+[
+  {
+    "source_id": "runs/muse-spark-1.3-contributor/other/2026-10-01-go-muse-spark-1.3-contributor-rep-3",
+    "model": "muse-spark-1.3-contributor",
+    "cohort": "historical",
+    "public_audio_url": "https://raw.githubusercontent.com/Microck/keygen-bench/da00c48e28cd722a54ff335f4d432d07fdeadbc7/runs/muse-spark-1.3-contributor/other/2026-10-01-go-muse-spark-1.3-contributor-rep-3/canonical/canonical.wav.flac",
+    "audio_git_blob_sha1": "deeadaff54a55e521a7ae22662d057a8e5a09b39",
+    "local_CE": 6.758642196655273,
+    "current_voice_SSM": 0.110843,
+    "P": 0.33689597638680924,
+    "H": 0.14262852570514087,
+    "rejected_C1": 0.2832953607888618,
+    "strict_nominal_timing": true,
+    "selection": "CE percentile minus current_SSM percentile"
+  },
+  {
+    "source_id": "runs/claude-fable-5.1/other/2026-09-27-claude-fable-5-1-2",
+    "model": "claude-fable-5.1",
+    "cohort": "historical",
+    "public_audio_url": "https://raw.githubusercontent.com/Microck/keygen-bench/da00c48e28cd722a54ff335f4d432d07fdeadbc7/runs/claude-fable-5.1/other/2026-09-27-claude-fable-5-1-2/canonical/canonical.wav.flac",
+    "audio_git_blob_sha1": "cfd6b5c21c8d895b0bd79495163834ee4d1cc4a9",
+    "local_CE": 6.9027934074401855,
+    "current_voice_SSM": 0.194476,
+    "P": 0.013616413919160035,
+    "H": -0.017275577452172085,
+    "rejected_C1": 0.013616413919160035,
+    "strict_nominal_timing": false,
+    "selection": "CE percentile minus C1 percentile"
+  },
+  {
+    "source_id": "runs/gpt-6.1-sol/other/2026-09-29-gpt-6.1-sol",
+    "model": "gpt-6.1-sol",
+    "cohort": "historical",
+    "public_audio_url": "https://raw.githubusercontent.com/Microck/keygen-bench/da00c48e28cd722a54ff335f4d432d07fdeadbc7/runs/gpt-6.1-sol/other/2026-09-29-gpt-6.1-sol/canonical/canonical.wav.flac",
+    "audio_git_blob_sha1": "98b2ef18b4359c31e31486144c37b7ef3d34b0d3",
+    "local_CE": 7.039623737335205,
+    "current_voice_SSM": 0.277664,
+    "P": 0.11524371422603183,
+    "H": 0.0015423503705924695,
+    "rejected_C1": 0.10926172163531807,
+    "strict_nominal_timing": false,
+    "selection": "CE percentile minus C1 percentile"
+  },
+  {
+    "source_id": "runs/deepseek-v4-pro/other/2026-09-25-devin-deepseek-v4-pro-2",
+    "model": "deepseek-v4-pro",
+    "cohort": "historical",
+    "public_audio_url": "https://raw.githubusercontent.com/Microck/keygen-bench/da00c48e28cd722a54ff335f4d432d07fdeadbc7/runs/deepseek-v4-pro/other/2026-09-25-devin-deepseek-v4-pro-2/canonical/canonical.wav.flac",
+    "audio_git_blob_sha1": "8178a62e2759e812b489d65956eac4d3d390104f",
+    "local_CE": 7.138762950897217,
+    "current_voice_SSM": 0.232018,
+    "P": 0.3346497488219001,
+    "H": 0.022303790369860483,
+    "rejected_C1": 0.29998959626534616,
+    "strict_nominal_timing": true,
+    "selection": "Highest historical local CE"
+  }
+]

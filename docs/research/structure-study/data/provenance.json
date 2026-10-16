@@ -1,0 +1,134 @@
+{
+  "schema": "structure-study-public-summary-v1",
+  "upstream_repository": "https://github.com/Microck/keygen-bench",
+  "upstream_commit": "da00c48e28cd722a54ff335f4d432d07fdeadbc7",
+  "method_id": "structured-variation-preregistered-v1",
+  "implementation_version": "1.0.1",
+  "registration_status": "internal prospective specification freeze; not externally registered",
+  "spec_sha256": "fe7bbdec6cea28b0a87cc56a83c2ebdbe3090f879c9e728eb24b530ee9e6c86e",
+  "statistical_protocol_sha256": "af7f5cc08e60ce8d4f3559fa1c22e17787603cca24605bc1ba4a68d6828cf114",
+  "statistical_script_sha256": "2a54986f44c1a6c45eb69b8fde3c7e7f5945569b2cd91bd83073eaf09eddb829",
+  "independent_archived_fixture_sha256": "cc076a65ef071b3c2401642e854e68d2b19d04d45ef8b84dae1036446fa30754",
+  "shipped_fixture_summary_source_sha256": "aece3b18380e4b90da39f21ce8c734c218f2cc1b8f8d748b3cda0b8002820d98",
+  "study_input_sha256": {
+    "feature_artifact": "9d1d800ae5bd69373e7593414a10bc8c7a218a5b4301126931924418605f43b5",
+    "census_artifact": "7483110eaa3b5b80debb08eabbe1e99c75dab204e396b357e8b759e266dc71fa",
+    "local_listener_artifact": "fba0c32b55b98a83601f75ae4de67a40866090303c33f103cd70b76075c7de31"
+  },
+  "source_report_sha256": {
+    "correlations.json": "54b23c68bda46ef7fbcbd12e4290908f55af475368c5fdf1c76391706b6a85d2",
+    "audio-stability.json": "3a1066956a94427b86d8584dcef7008f1f42460023119e26deaaf97975cebfae",
+    "historical-shortlist.csv": "5572c62e0bfdb76b362adfd345adc56a30e591966e3c2bb4296a7defd84381fa",
+    "listener-local.json": "bc823b95014c1846f9394aae519d269509e0ea9def2d223e63850cb0efe3888f"
+  },
+  "bootstrap_seed": 20261016,
+  "bootstrap_replicates": 2000,
+  "statistical_versions": {
+    "python": "3.13.5",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.16.1",
+    "matplotlib": "3.10.5"
+  },
+  "listener_identity": {
+    "model": "facebook/audiobox-aesthetics",
+    "revision": "9b1dd8e5df9af7216e836a98974fe3b82c56ded6",
+    "weights_sha256": "a5a3c2412649cc2384ec525ffd5180ce6c4778f43bed6108e0a1303de04d014e",
+    "device": "cuda",
+    "max_seconds": 120,
+    "torch": "2.7.1+cu128",
+    "platform": "Windows",
+    "machine": "AMD64",
+    "python": "3.13.5",
+    "torchaudio": "2.7.1+cu128",
+    "audiobox_aesthetics": "0.0.4",
+    "tf32": false
+  },
+  "figures": {
+    "correlations.png": {
+      "source_sha256": "c62e2b66b4956f1664ce70f82c221c014a7a9aa5107def51d18df3e51db4bf70",
+      "published_sha256": "c7450ccc6a74a9d852f1a3aa0e84a9f31dece171f0d45627a83bdb4d9f427331",
+      "metadata_chunks_removed": [
+        "tEXt"
+      ]
+    },
+    "control-ssm-comparison.png": {
+      "source_sha256": "70a5b6d16b57f4830b1ffc2f48bbdf552d545fcad8e8308f652c8cdacf239fa6",
+      "published_sha256": "cd4d6ed2c0dc78ceb959a33a4c8f3539ab391b24ca392546bce9ea2991e3e36c",
+      "metadata_chunks_removed": [
+        "tEXt"
+      ]
+    },
+    "audio-stability.png": {
+      "source_sha256": "4fb4c965155ff54ae70e713cf78458a1644b61fb12af9b3ff2e316e9ef1cb1c8",
+      "published_sha256": "66bee16b5bbdbf33e12f4e9cbda07527e9bc924219ab80d3903ebe95c278b470",
+      "metadata_chunks_removed": [
+        "tEXt"
+      ]
+    },
+    "representative-ssm-comparison.png": {
+      "source_sha256": "1c541d965813156b209c80f229b105ec6b811bfecd8eff601bb15602231be541",
+      "published_sha256": "a5cf83cf194dea2dd9e38533f970a9a83319e2e35f9f5a33ea8f488f3ff30d32",
+      "metadata_chunks_removed": [
+        "tEXt"
+      ]
+    },
+    "gpt-5.6-terra--attempt-2--three-ssm.png": {
+      "source_sha256": "add7d6b31123cf21e77052210361fd82de46e5795e87a5f266e26cdd47821d0f",
+      "published_sha256": "ea168e7edc4f3e6a5f2eedd2b801b363a6b4800b748999e0d358a961ef1ee4cc",
+      "metadata_chunks_removed": [
+        "tEXt"
+      ]
+    },
+    "mercury-2.5--attempt-1--three-ssm.png": {
+      "source_sha256": "b99302788abcd26832fa9336c5d88ca477c32e52fe0d7084d9f2dc79b7d4feaa",
+      "published_sha256": "1962aa1ef8bc1908041d65c3d36507225dec8f4a227f5b8108add96aff200af0",
+      "metadata_chunks_removed": [
+        "tEXt"
+      ]
+    }
+  },
+  "overview_plot": {
+    "source": "plot_summary.py",
+    "source_sha256": "c5ccbc768e6c65e25aa9ce0779a408350e97c3742c8c0bea9fd43981947d9193",
+    "published_sha256": "60806979da7b412f5b8855ffa33159d0c2cee974d8e93feca748d14126b5738a"
+  },
+  "minimal_association_reproducer": {
+    "source": "reproduce_associations.py",
+    "source_sha256": "d0c3519d63065915a7f57256b6e1599de4838322db6502432eff9cb8cfa19bfa",
+    "input": "data/statistical-input.csv",
+    "input_sha256": "af272e3182463f94939b47d0c8dde2e4139623982a69c764c50eb6e2b86d4f05",
+    "checks": 12,
+    "dependencies": {
+      "numpy": "2.2.6",
+      "scipy": "1.16.1"
+    }
+  },
+  "published_data_sha256": {
+    "associations.csv": "6959a43662f91a2cf35a2324a7cca6e2101d81ad2840a5e302057a7d29452dc7",
+    "associations.json": "11bb32dbe3c299067154f332bd17353f30da2c864b16b78d3999973b3d6cfa12",
+    "audio-stability.csv": "652e176aca0051295f3005b702f54e9437467bf2620df00d8dd450706df5e871",
+    "audio-stability.json": "009a6dd76760ccdbe531e6c16266daf0eae13fe1ce3c856b3ae0004525af4b26",
+    "coverage.json": "c4fcc923611d187863dc8a55d72b51b3924e6c9942e997098919337d230d7a91",
+    "fixture-summary.csv": "24f934c2651bc08282a426d776a309dc68ece21f606f9587dd7cbd9aa198ac71",
+    "fixture-summary.json": "0e6b8cb5c9a7c9bc40a73fb0f77df441e7f3119b523e52e4faa8c57254b10629",
+    "heldout-summary.csv": "d48bd52768b9f1b6408b27801bb877e60c4b60ed0bc1d16454ffe11d935b359d",
+    "heldout-summary.json": "95ea178698d302fd0f6c72dc7b7e8665fff776fb74613f2fccf8befe148040af",
+    "README.md": "accd85f97e96c19495d22f3808bd8f6763f64109caafe56ee1151a1f453fda7c",
+    "selected-listening.csv": "ee09097daff31d2748fa09105c0625f61be68eb1a56f4f4ec27837e32ea34d2d",
+    "selected-listening.json": "117681b2aca90d255d048fd35651f924b016a1fec856e8ea7b4591c13ae0e8e6",
+    "statistical-input.csv": "af272e3182463f94939b47d0c8dde2e4139623982a69c764c50eb6e2b86d4f05"
+  },
+  "reproduction_scope": "Shipped code reproduces core descriptors, 57-fixture subset, 12 official association/interval results and overview plotting. The full acquisition, audio-SSM, listener-inference and held-out regression pipeline is not shipped. Complete external-proxy inputs and standalone analysis are supplied separately.",
+  "external_comparison": {
+    "manifest": "external/manifest.json",
+    "manifest_sha256": "de0399cc4c8c9f0f15e4dbf8f1cc12c72d4d4cb9c6ade5b49aa6e2a844f67e75",
+    "protocol": "external/protocol.md",
+    "source": "external/analyze_external_proxy.py",
+    "source_sha256": "e540e0582e0be7a28954ea8bfc430e936c6915b3f008ca2785224077c5dd2fc0",
+    "association_rows": 264,
+    "family_deletion_rows": 1686,
+    "independent_validation": "separate rank and median arithmetic; every association and deletion reproduced",
+    "target_status": "external capability proxies; no gold standard or fitted weights"
+  }
+}

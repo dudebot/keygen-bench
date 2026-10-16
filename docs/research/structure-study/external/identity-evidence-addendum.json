@@ -1,0 +1,9 @@
+{
+  "model": "claude-fable-5",
+  "purpose": "Citation clarification only; accepted mapping and numeric inputs unchanged. Original overview URL redirects to a newer overview. This direct legacy page explicitly pairs Claude Fable 5 with API identifier claude-fable-5.",
+  "source_url": "https://platform.claude.com/docs/en/models/fable-5/overview",
+  "final_url": "https://platform.claude.com/docs/en/models/fable-5/overview",
+  "retrieved_utc": "2026-10-16T15:48:26.790344+00:00",
+  "source_sha256": "0cd140ee51e6b1e6ba9b032300859720941f706d6a6f379c895bb275bd382898",
+  "frozen_mapping_sha256": "c9bf571038e657e04f13061e7416f7ae02538a44393a1015733e17de883bc557"
+}

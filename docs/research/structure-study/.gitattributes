@@ -1,0 +1,7 @@
+# Preserve raw-byte provenance hashes on every checkout platform.
+data/*.csv -text
+data/*.json -text
+data/README.md -text
+plot_summary.py -text
+reproduce_associations.py -text
+external/* -text
