@@ -1,0 +1,54 @@
+{
+  "method": "static-thematic-organization-v1",
+  "status": "experimental, theory-led and uncalibrated; not a universal enjoyment verdict",
+  "version": 1,
+  "windows_ticks": [
+    96,
+    192
+  ],
+  "max_windows": 256,
+  "controls": 8,
+  "control_seed": 20261023,
+  "pitch_shifts": [
+    -12,
+    12
+  ],
+  "time_offsets_ticks": [
+    -18,
+    -12,
+    -6,
+    0,
+    6,
+    12,
+    18
+  ],
+  "min_core_points": 6,
+  "min_core_onsets": 4,
+  "min_core_span_ticks": 24,
+  "minimum_pair_coverage": 0.6,
+  "variant_min_exact_occurrences": 2,
+  "recurrence_only_ceiling": 0.25,
+  "edit_fraction_full_credit": 0.2,
+  "literal_transposition_variation_credit": 0.25,
+  "core_pitch_entropy_saturation_bits": 2.0,
+  "entropy_preference_center_bits": 2.0,
+  "entropy_preference_sigma_bits": 1.0,
+  "period_min_ticks": 24,
+  "period_min_copies": 3,
+  "period_scan_max_ticks": 24576,
+  "formula": "100*mean_windows(core_content_gate * saturated_recurrence_support * (0.25+0.75*confirmed_variant_support) * entropy_preference); mean across window scales",
+  "core_content_gate": "min(1, matched_core_pitch_class_entropy/2) * matched_core_pitch_set_change_rate",
+  "recurrence_support": "max(0,F1-max_all_control_partners)/(1-max_all_control_partners); zero when control maximum is 1",
+  "variant_support": "requires >=2 exact copies per changed signature, >=.6 coverage both ways, same phase; variant strength is multiplied by its own recurrence support before family pooling; exact transposition gets .25; at least one side must contain >=2 residual points, so an isolated one-note substitution is retained as a match but not promoted to evolution credit",
+  "period_policy": "Periodicity is descriptive. Only fixed-grid phase-walk-confounded variant evidence is discounted: fit above .90 and detected period not divisible by window width. Aligned repeated A/A-prime statements retain variant credit.",
+  "ablation": "also emit same score without entropy preference",
+  "assumptions": [
+    "24 nominal tracker ticks per conventional beat",
+    "pitch-class entropy uses fixed 12-class alphabet",
+    "core summaries describe written point sets, not a recovered perceptual melody",
+    "no culture-universal optimal entropy or binary pleasantness claim"
+  ],
+  "period_variant_discount_start": 0.9,
+  "minimum_variant_residual_points": 2,
+  "minimum_variant_residual_points_one_side": 2
+}

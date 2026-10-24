@@ -1,0 +1,693 @@
+{
+  "protocol": "All6previously examinedmodelgroups plus12additionalexactmodelgroups selectedfromsortedeligiblekeys by random.Random(20261024); allavailable rankedattempts, no score-basedselection. Metadata join repaired before any corpus scores were computed.",
+  "existing_models": [
+    "claude-opus-5-5",
+    "gemini-3.7-flash",
+    "glm-5-3",
+    "gpt-5-3-codex",
+    "gpt-6.1-sol",
+    "mercury-2.5"
+  ],
+  "sampled_models": [
+    "swe-1-7-lightning",
+    "gemini-4-argon",
+    "claude-sonnet-4-6",
+    "grok-4.20-0309-non-reasoning",
+    "claude-haiku-4-5-20251001",
+    "glm-5.2",
+    "north-mini-code",
+    "claude-opus-4-8",
+    "claude-sonnet-5-5",
+    "grok-build-0.1",
+    "nemotron-3-ultra",
+    "nemotron-3-super-120b-a12b"
+  ],
+  "files": [
+    {
+      "id": "claude-opus-5-5-max-tier-a1-c0270812650d1",
+      "model_key": "claude-opus-5-5",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media/media/claude-opus-5-5-max-tier-a1-c0270812650d1.xm",
+      "listener": {
+        "content_enjoyment": 6.324071884155273,
+        "production_quality": 7.8703203201293945,
+        "content_usefulness": 7.478793144226074,
+        "production_complexity": 5.178014278411865
+      },
+      "sha256": "5f63e7b5dcf39e573c50b9e6063a0206b78324ebe045b75064c794c3d5ecad5c"
+    },
+    {
+      "id": "claude-opus-5-5-max-tier-a2-c0270812650d1",
+      "model_key": "claude-opus-5-5",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media/media/claude-opus-5-5-max-tier-a2-c0270812650d1.xm",
+      "listener": {
+        "content_enjoyment": 6.249785423278809,
+        "production_quality": 7.438508987426758,
+        "content_usefulness": 7.219533920288086,
+        "production_complexity": 5.339058876037598
+      },
+      "sha256": "6c52cfa448d14eaa78a2a2933d3f1b3732a137ff0ac83408fe6164ac71e1b93a"
+    },
+    {
+      "id": "claude-opus-5-5-max-tier-a3-c0270812650d1",
+      "model_key": "claude-opus-5-5",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media/media/claude-opus-5-5-max-tier-a3-c0270812650d1.xm",
+      "listener": {
+        "content_enjoyment": 6.138913154602051,
+        "production_quality": 7.786569595336914,
+        "content_usefulness": 7.4914164543151855,
+        "production_complexity": 5.1664886474609375
+      },
+      "sha256": "3a527074a9a4fbb1590280eeb5cf7048bd117cda3dd2ee1b10101b84fdf73281"
+    },
+    {
+      "id": "gemini-3-7-flash-max-tier-a1-c5729c2868376",
+      "model_key": "gemini-3.7-flash",
+      "maker": "Google",
+      "url": "https://microck.github.io/keygen-bench-media/media/gemini-3-7-flash-max-tier-a1-c5729c2868376.xm",
+      "listener": {
+        "content_enjoyment": 5.9333600997924805,
+        "production_quality": 7.599203586578369,
+        "content_usefulness": 7.292802810668945,
+        "production_complexity": 4.575545310974121
+      },
+      "sha256": "8e47fd003a00227da00504f75927a51ec8f7dba78f2c8efee3b1f968d91b2af1"
+    },
+    {
+      "id": "gemini-3-7-flash-max-tier-a2-c5729c2868376",
+      "model_key": "gemini-3.7-flash",
+      "maker": "Google",
+      "url": "https://microck.github.io/keygen-bench-media/media/gemini-3-7-flash-max-tier-a2-c5729c2868376.xm",
+      "listener": {
+        "content_enjoyment": 5.394082546234131,
+        "production_quality": 7.384653091430664,
+        "content_usefulness": 7.279304504394531,
+        "production_complexity": 4.667904376983643
+      },
+      "sha256": "adbae7f0a8341db0dd007a5dc22b08c66de30f7b6bdb5aed3d65b394d4c736e3"
+    },
+    {
+      "id": "gemini-3-7-flash-max-tier-a3-c5729c2868376",
+      "model_key": "gemini-3.7-flash",
+      "maker": "Google",
+      "url": "https://microck.github.io/keygen-bench-media/media/gemini-3-7-flash-max-tier-a3-c5729c2868376.xm",
+      "listener": {
+        "content_enjoyment": 2.7838449478149414,
+        "production_quality": 5.690893173217773,
+        "content_usefulness": 6.115017890930176,
+        "production_complexity": 4.951760292053223
+      },
+      "sha256": "8b6f223835c5646063676e25bcec0c6a8393afa799d851c6e148699cb94dd2de"
+    },
+    {
+      "id": "glm-5-3-max-tier-a1-cd98570d3fbba",
+      "model_key": "glm-5-3",
+      "maker": "Zhipu",
+      "url": "https://microck.github.io/keygen-bench-media/media/glm-5-3-max-tier-a1-cd98570d3fbba.xm",
+      "listener": {
+        "content_enjoyment": 6.460448265075684,
+        "production_quality": 7.753163814544678,
+        "content_usefulness": 7.5009446144104,
+        "production_complexity": 5.027803897857666
+      },
+      "sha256": "0619b6eac6df3e1b87ba4a7e65df82fc9aec66e36bdfe358ff902ee88df4e5bb"
+    },
+    {
+      "id": "glm-5-3-max-tier-a2-cd98570d3fbba",
+      "model_key": "glm-5-3",
+      "maker": "Zhipu",
+      "url": "https://microck.github.io/keygen-bench-media/media/glm-5-3-max-tier-a2-cd98570d3fbba.xm",
+      "listener": {
+        "content_enjoyment": 6.088176727294922,
+        "production_quality": 7.966287136077881,
+        "content_usefulness": 7.6309309005737305,
+        "production_complexity": 4.185068130493164
+      },
+      "sha256": "232295e815c30fd0fa7f1df3b847a6ae09f63d2c5eef3394b325cc07ce217741"
+    },
+    {
+      "id": "glm-5-3-max-tier-a3-cd98570d3fbba",
+      "model_key": "glm-5-3",
+      "maker": "Zhipu",
+      "url": "https://microck.github.io/keygen-bench-media/media/glm-5-3-max-tier-a3-cd98570d3fbba.xm",
+      "listener": {
+        "content_enjoyment": 6.308695316314697,
+        "production_quality": 7.65731954574585,
+        "content_usefulness": 7.512696743011475,
+        "production_complexity": 4.677182197570801
+      },
+      "sha256": "10c030d2d27ac058c5668befc5c877cee6fdad0643b1790e311ca6022da49322"
+    },
+    {
+      "id": "gpt-5-3-codex-max-tier-a1-ca1b2b0a76d8b",
+      "model_key": "gpt-5-3-codex",
+      "maker": "OpenAI",
+      "url": "https://microck.github.io/keygen-bench-media/media/gpt-5-3-codex-max-tier-a1-ca1b2b0a76d8b.xm",
+      "listener": {
+        "content_enjoyment": 5.150771617889404,
+        "production_quality": 7.694667339324951,
+        "content_usefulness": 7.455706596374512,
+        "production_complexity": 3.7665085792541504
+      },
+      "sha256": "c2e6523aa7477fbc34aaf39e43a84e2d17bbe8c6655b1d447ba057002c20b31f"
+    },
+    {
+      "id": "gpt-5-3-codex-max-tier-a2-ca1b2b0a76d8b",
+      "model_key": "gpt-5-3-codex",
+      "maker": "OpenAI",
+      "url": "https://microck.github.io/keygen-bench-media/media/gpt-5-3-codex-max-tier-a2-ca1b2b0a76d8b.xm",
+      "listener": {
+        "content_enjoyment": 4.286293029785156,
+        "production_quality": 6.284476280212402,
+        "content_usefulness": 6.048608779907227,
+        "production_complexity": 4.625334739685059
+      },
+      "sha256": "a413d3fe75c687b8ade1b00f6e6f413baaaab7b5c42a40f1e339d546a31c925e"
+    },
+    {
+      "id": "gpt-5-3-codex-max-tier-a3-ca1b2b0a76d8b",
+      "model_key": "gpt-5-3-codex",
+      "maker": "OpenAI",
+      "url": "https://microck.github.io/keygen-bench-media/media/gpt-5-3-codex-max-tier-a3-ca1b2b0a76d8b.xm",
+      "listener": {
+        "content_enjoyment": 4.139026165008545,
+        "production_quality": 5.9221930503845215,
+        "content_usefulness": 6.151004791259766,
+        "production_complexity": 4.993239879608154
+      },
+      "sha256": "b85a8b989b380459588963d8b3e0b0ef96f8431c4c38b8c1f401b3846f7455be"
+    },
+    {
+      "id": "gpt-6-1-sol-max-tier-a1-c5f8eeb9b0f76",
+      "model_key": "gpt-6.1-sol",
+      "maker": "OpenAI",
+      "url": "https://microck.github.io/keygen-bench-media/media/gpt-6-1-sol-max-tier-a1-c5f8eeb9b0f76.xm",
+      "listener": {
+        "content_enjoyment": 7.191044807434082,
+        "production_quality": 8.40609359741211,
+        "content_usefulness": 8.146353721618652,
+        "production_complexity": 4.918093204498291
+      },
+      "sha256": "b0a86932b93d22faf4fd7562bf81d5811cdd5f3493b52ce6a62c7fef5d44b15e"
+    },
+    {
+      "id": "gpt-6-1-sol-max-tier-a2-c5f8eeb9b0f76",
+      "model_key": "gpt-6.1-sol",
+      "maker": "OpenAI",
+      "url": "https://microck.github.io/keygen-bench-media/media/gpt-6-1-sol-max-tier-a2-c5f8eeb9b0f76.xm",
+      "listener": {
+        "content_enjoyment": 7.130615234375,
+        "production_quality": 8.334609031677246,
+        "content_usefulness": 8.10204029083252,
+        "production_complexity": 5.01840353012085
+      },
+      "sha256": "6db73aabd35ba3e3d591143a920077859f7ee758c3ac710a924b180c958a6fc3"
+    },
+    {
+      "id": "gpt-6-1-sol-max-tier-a3-c5f8eeb9b0f76",
+      "model_key": "gpt-6.1-sol",
+      "maker": "OpenAI",
+      "url": "https://microck.github.io/keygen-bench-media/media/gpt-6-1-sol-max-tier-a3-c5f8eeb9b0f76.xm",
+      "listener": {
+        "content_enjoyment": 6.525651454925537,
+        "production_quality": 8.175328254699707,
+        "content_usefulness": 7.992883205413818,
+        "production_complexity": 4.879315376281738
+      },
+      "sha256": "eaa819fe51352564b23b0933eae7c7f2dd1b722337df570c9366a5a49d810f89"
+    },
+    {
+      "id": "inception-mercury-2-5-max-tier-a1-c6090e7798979",
+      "model_key": "mercury-2.5",
+      "maker": "Inception",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/inception-mercury-2-5-max-tier-a1-c6090e7798979.xm",
+      "listener": {
+        "content_enjoyment": 1.8803460597991943,
+        "production_quality": 6.001084327697754,
+        "content_usefulness": 4.790551662445068,
+        "production_complexity": 1.9166457653045654
+      },
+      "sha256": "959756c7066c05fc49ea138fd519ba6476b246909ca209218442c9259fdeed48"
+    },
+    {
+      "id": "inception-mercury-2-5-max-tier-a2-c6090e7798979",
+      "model_key": "mercury-2.5",
+      "maker": "Inception",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/inception-mercury-2-5-max-tier-a2-c6090e7798979.xm",
+      "listener": {
+        "content_enjoyment": 3.074932813644409,
+        "production_quality": 6.353941440582275,
+        "content_usefulness": 5.7747111320495605,
+        "production_complexity": 2.5417959690093994
+      },
+      "sha256": "579b5331e1d308ef6ce28b522555823a1885ddf989eed68100d58f9b163ad1ca"
+    },
+    {
+      "id": "swe-1-7-lightning-max-tier-a1-ca1b2b0a76d8b",
+      "model_key": "swe-1-7-lightning",
+      "maker": "Cognition",
+      "url": "https://microck.github.io/keygen-bench-media/media/swe-1-7-lightning-max-tier-a1-ca1b2b0a76d8b.xm",
+      "listener": {
+        "content_enjoyment": 4.680563449859619,
+        "production_quality": 6.927740097045898,
+        "content_usefulness": 6.804487228393555,
+        "production_complexity": 3.749034881591797
+      },
+      "sha256": "7bcf07d2c1abb2a396a871813c248ca4599251f087e5031938bc7055af16b76a"
+    },
+    {
+      "id": "swe-1-7-lightning-max-tier-a2-ca1b2b0a76d8b",
+      "model_key": "swe-1-7-lightning",
+      "maker": "Cognition",
+      "url": "https://microck.github.io/keygen-bench-media/media/swe-1-7-lightning-max-tier-a2-ca1b2b0a76d8b.xm",
+      "listener": {
+        "content_enjoyment": 3.1707212924957275,
+        "production_quality": 5.620630741119385,
+        "content_usefulness": 4.894102096557617,
+        "production_complexity": 2.418870449066162
+      },
+      "sha256": "7abf5c1c7610737d690ddadcf20630e39d0b4ebd09824f4c54eea3db0f8450f3"
+    },
+    {
+      "id": "swe-1-7-lightning-max-tier-a3-ca1b2b0a76d8b",
+      "model_key": "swe-1-7-lightning",
+      "maker": "Cognition",
+      "url": "https://microck.github.io/keygen-bench-media/media/swe-1-7-lightning-max-tier-a3-ca1b2b0a76d8b.xm",
+      "listener": {
+        "content_enjoyment": 4.818262577056885,
+        "production_quality": 7.3101630210876465,
+        "content_usefulness": 7.019653797149658,
+        "production_complexity": 4.628731727600098
+      },
+      "sha256": "adb9858c1050b84398be30a13b0c592d54a6973cdcbe8889ee46fa329f95d506"
+    },
+    {
+      "id": "gemini-4-argon-a1",
+      "model_key": "gemini-4-argon",
+      "maker": "Google",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/gemini-4-argon-a1.xm",
+      "listener": {
+        "content_enjoyment": 6.647765636444092,
+        "production_quality": 7.292148113250732,
+        "content_usefulness": 7.087691307067871,
+        "production_complexity": 5.856536865234375
+      },
+      "sha256": "09528fa359aae26afe1da4f018cbcf8501bf5b523e6e7980b22e61e502bc1dce"
+    },
+    {
+      "id": "gemini-4-argon-a2",
+      "model_key": "gemini-4-argon",
+      "maker": "Google",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/gemini-4-argon-a2.xm",
+      "listener": {
+        "content_enjoyment": 6.852214813232422,
+        "production_quality": 7.80526065826416,
+        "content_usefulness": 7.465258598327637,
+        "production_complexity": 5.8270134925842285
+      },
+      "sha256": "1dda6f80e40c68bb00d1ef4f3f53660ec9c3185b82803a31ecfd8795be96adcb"
+    },
+    {
+      "id": "gemini-4-argon-a3",
+      "model_key": "gemini-4-argon",
+      "maker": "Google",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/gemini-4-argon-a3.xm",
+      "listener": {
+        "content_enjoyment": 6.557137489318848,
+        "production_quality": 7.2914862632751465,
+        "content_usefulness": 7.250633716583252,
+        "production_complexity": 5.871810436248779
+      },
+      "sha256": "9f42bd56048e5f3fba6bd74f9402b076ac0b42f120cea57a2e8a76691632b6e3"
+    },
+    {
+      "id": "claude-sonnet-4-6-max-tier-a1-c0270812650d1",
+      "model_key": "claude-sonnet-4-6",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media/media/claude-sonnet-4-6-max-tier-a1-c0270812650d1.xm",
+      "listener": {
+        "content_enjoyment": 5.8811354637146,
+        "production_quality": 7.149024486541748,
+        "content_usefulness": 7.064173221588135,
+        "production_complexity": 4.635526180267334
+      },
+      "sha256": "44f7dc2582237d38fa0a3801368ee45a04bb5997baee7c3a6f44c413f9ba18d0"
+    },
+    {
+      "id": "claude-sonnet-4-6-max-tier-a2-c0270812650d1",
+      "model_key": "claude-sonnet-4-6",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media/media/claude-sonnet-4-6-max-tier-a2-c0270812650d1.xm",
+      "listener": {
+        "content_enjoyment": 2.6864285469055176,
+        "production_quality": 5.808305740356445,
+        "content_usefulness": 5.414248943328857,
+        "production_complexity": 3.6501224040985107
+      },
+      "sha256": "41e03ebd7214988364743fab855e960c4a90613f28fabad1587158c80eba87c7"
+    },
+    {
+      "id": "claude-sonnet-4-6-max-tier-a3-c0270812650d1",
+      "model_key": "claude-sonnet-4-6",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media/media/claude-sonnet-4-6-max-tier-a3-c0270812650d1.xm",
+      "listener": {
+        "content_enjoyment": 3.31691312789917,
+        "production_quality": 5.514749526977539,
+        "content_usefulness": 4.8805928230285645,
+        "production_complexity": 4.130998611450195
+      },
+      "sha256": "b88ceedfecec28612e5c455f8d27baac57422aa731646a62761aff2035f1095c"
+    },
+    {
+      "id": "grok-4-20-0309-non-reasoning-max-tier-a2-c87d5d1162456",
+      "model_key": "grok-4.20-0309-non-reasoning",
+      "maker": "xAI",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/grok-4-20-0309-non-reasoning-max-tier-a2-c87d5d1162456.xm",
+      "listener": {
+        "content_enjoyment": 2.235569477081299,
+        "production_quality": 5.3529863357543945,
+        "content_usefulness": 5.366879463195801,
+        "production_complexity": 1.9178792238235474
+      },
+      "sha256": "dfc73fb3e3b0ec4011c557f79267fcbd808f4f98400710ffabdee785298defd4"
+    },
+    {
+      "id": "grok-4-20-0309-non-reasoning-max-tier-a3-c87d5d1162456",
+      "model_key": "grok-4.20-0309-non-reasoning",
+      "maker": "xAI",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/grok-4-20-0309-non-reasoning-max-tier-a3-c87d5d1162456.xm",
+      "listener": {
+        "content_enjoyment": 2.664294958114624,
+        "production_quality": 5.7738213539123535,
+        "content_usefulness": 5.310194492340088,
+        "production_complexity": 2.3924386501312256
+      },
+      "sha256": "6380f13a19ea4c19ad4d2eefd778addb0cab6478a9212b87f931863585b73fe5"
+    },
+    {
+      "id": "claude-haiku-4-5-20251001-max-tier-a1-c104a52bdea70",
+      "model_key": "claude-haiku-4-5-20251001",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/claude-haiku-4-5-20251001-max-tier-a1-c104a52bdea70.xm",
+      "listener": {
+        "content_enjoyment": 3.661496162414551,
+        "production_quality": 6.223688125610352,
+        "content_usefulness": 5.205761909484863,
+        "production_complexity": 3.518291473388672
+      },
+      "sha256": "2266bc8618cc99a8c986566233606a0f8af7de4aac51c7399dc5a4a4b4f596ca"
+    },
+    {
+      "id": "claude-haiku-4-5-20251001-max-tier-a2-c104a52bdea70",
+      "model_key": "claude-haiku-4-5-20251001",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/claude-haiku-4-5-20251001-max-tier-a2-c104a52bdea70.xm",
+      "listener": {
+        "content_enjoyment": 2.9809587001800537,
+        "production_quality": 6.596179485321045,
+        "content_usefulness": 6.267401695251465,
+        "production_complexity": 1.7911256551742554
+      },
+      "sha256": "89b4047492702b4f97fc1053ac900d5661dba26646ffc9aed512d70ff17cf33c"
+    },
+    {
+      "id": "claude-haiku-4-5-20251001-max-tier-a3-c104a52bdea70",
+      "model_key": "claude-haiku-4-5-20251001",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/claude-haiku-4-5-20251001-max-tier-a3-c104a52bdea70.xm",
+      "listener": {
+        "content_enjoyment": 2.0073490142822266,
+        "production_quality": 4.664064407348633,
+        "content_usefulness": 3.455683708190918,
+        "production_complexity": 2.558475971221924
+      },
+      "sha256": "73ff221b7d06c0ad05c0aa43a3830810f3361787c387d919ceb8e781775283c1"
+    },
+    {
+      "id": "glm-5-2-max-tier-a1-c2b57da207229",
+      "model_key": "glm-5.2",
+      "maker": "Zhipu",
+      "url": "https://microck.github.io/keygen-bench-media/media/glm-5-2-max-tier-a1-c2b57da207229.xm",
+      "listener": {
+        "content_enjoyment": 6.833641052246094,
+        "production_quality": 8.164302825927734,
+        "content_usefulness": 7.922003746032715,
+        "production_complexity": 5.447011470794678
+      },
+      "sha256": "891f3174aa703fa5f61fe8a62e56d14e4e719ae5ea64a5ae2e790cfddfe8b71a"
+    },
+    {
+      "id": "glm-5-2-max-tier-a2-c2b57da207229",
+      "model_key": "glm-5.2",
+      "maker": "Zhipu",
+      "url": "https://microck.github.io/keygen-bench-media/media/glm-5-2-max-tier-a2-c2b57da207229.xm",
+      "listener": {
+        "content_enjoyment": 6.254978179931641,
+        "production_quality": 7.852567672729492,
+        "content_usefulness": 7.548287391662598,
+        "production_complexity": 4.5934953689575195
+      },
+      "sha256": "e20f8d5070f0b9c79c57df5c8b763af8f27f19927dd1fd0c7f64faef175390a4"
+    },
+    {
+      "id": "glm-5-2-max-tier-a3-c2b57da207229",
+      "model_key": "glm-5.2",
+      "maker": "Zhipu",
+      "url": "https://microck.github.io/keygen-bench-media/media/glm-5-2-max-tier-a3-c2b57da207229.xm",
+      "listener": {
+        "content_enjoyment": 6.630161285400391,
+        "production_quality": 8.136223793029785,
+        "content_usefulness": 7.794179916381836,
+        "production_complexity": 4.502838611602783
+      },
+      "sha256": "578b41599c551d7ccb9b28c140f788e4dfef0416769f8e3f5c9cf1a6f5f4d3b8"
+    },
+    {
+      "id": "cohere-north-mini-code-free-max-tier-a1-c54a14c763ca1",
+      "model_key": "north-mini-code",
+      "maker": "Cohere",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/cohere-north-mini-code-free-max-tier-a1-c54a14c763ca1.xm",
+      "listener": {
+        "content_enjoyment": 4.710149765014648,
+        "production_quality": 7.894836902618408,
+        "content_usefulness": 7.329752445220947,
+        "production_complexity": 3.1850500106811523
+      },
+      "sha256": "41c698722ab7e9ddd86a8eba5ee722730abd153fccfa5677bd63b7810e619f7e"
+    },
+    {
+      "id": "cohere-north-mini-code-free-max-tier-a2-c54a14c763ca1",
+      "model_key": "north-mini-code",
+      "maker": "Cohere",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/cohere-north-mini-code-free-max-tier-a2-c54a14c763ca1.xm",
+      "listener": {
+        "content_enjoyment": 2.585171937942505,
+        "production_quality": 6.587911128997803,
+        "content_usefulness": 5.991837024688721,
+        "production_complexity": 2.484663486480713
+      },
+      "sha256": "603202ef96fba5091947f884bef8726d09443e7bf0d74d0cf858566d8814c247"
+    },
+    {
+      "id": "claude-opus-4-8-max-tier-a1-c0270812650d1",
+      "model_key": "claude-opus-4-8",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media/media/claude-opus-4-8-max-tier-a1-c0270812650d1.xm",
+      "listener": {
+        "content_enjoyment": 4.177235126495361,
+        "production_quality": 6.486084461212158,
+        "content_usefulness": 5.9457173347473145,
+        "production_complexity": 5.059350967407227
+      },
+      "sha256": "ab5501216f45b28950df66cef9a8e7fbf00b56e54e16a7640060d18cc7c46ed6"
+    },
+    {
+      "id": "claude-opus-4-8-max-tier-a2-c0270812650d1",
+      "model_key": "claude-opus-4-8",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media/media/claude-opus-4-8-max-tier-a2-c0270812650d1.xm",
+      "listener": {
+        "content_enjoyment": 5.341623306274414,
+        "production_quality": 7.20499324798584,
+        "content_usefulness": 6.890402317047119,
+        "production_complexity": 4.477495193481445
+      },
+      "sha256": "0814069ff597201ded57fd99943bab81a4c6da3230eb82567108d509f3bab389"
+    },
+    {
+      "id": "claude-opus-4-8-max-tier-a3-c0270812650d1",
+      "model_key": "claude-opus-4-8",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media/media/claude-opus-4-8-max-tier-a3-c0270812650d1.xm",
+      "listener": {
+        "content_enjoyment": 6.19343376159668,
+        "production_quality": 7.512598037719727,
+        "content_usefulness": 7.407474040985107,
+        "production_complexity": 4.886314868927002
+      },
+      "sha256": "01880ec305470103b03ee16852468cbf4d00b0ca0a27962593697c2d42095403"
+    },
+    {
+      "id": "claude-sonnet-5-5-max-tier-a1-c0270812650d1",
+      "model_key": "claude-sonnet-5-5",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media/media/claude-sonnet-5-5-max-tier-a1-c0270812650d1.xm",
+      "listener": {
+        "content_enjoyment": 6.652563571929932,
+        "production_quality": 7.784182071685791,
+        "content_usefulness": 7.647584915161133,
+        "production_complexity": 5.280186176300049
+      },
+      "sha256": "05fc88e8141e453e9cd2dfeca55cf8747c9d4bf0df4e8f9c7362c36001aa50a5"
+    },
+    {
+      "id": "claude-sonnet-5-5-max-tier-a2-c0270812650d1",
+      "model_key": "claude-sonnet-5-5",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media/media/claude-sonnet-5-5-max-tier-a2-c0270812650d1.xm",
+      "listener": {
+        "content_enjoyment": 6.609091281890869,
+        "production_quality": 7.863977909088135,
+        "content_usefulness": 7.6331562995910645,
+        "production_complexity": 5.43506383895874
+      },
+      "sha256": "8e7be7e56f9556227558e3fbb028f0dfbd18f5d5da7b054348a9acc55b9fe070"
+    },
+    {
+      "id": "claude-sonnet-5-5-max-tier-a3-c0270812650d1",
+      "model_key": "claude-sonnet-5-5",
+      "maker": "Anthropic",
+      "url": "https://microck.github.io/keygen-bench-media/media/claude-sonnet-5-5-max-tier-a3-c0270812650d1.xm",
+      "listener": {
+        "content_enjoyment": 6.567780017852783,
+        "production_quality": 7.531419277191162,
+        "content_usefulness": 7.384655952453613,
+        "production_complexity": 5.860779285430908
+      },
+      "sha256": "ab5aa60c3c8aa772ca893e28feb8f856f0ac13d7d2952fa73700934cdf30fb1b"
+    },
+    {
+      "id": "grok-build-0-1-max-tier-a1-c87d5d1162456",
+      "model_key": "grok-build-0.1",
+      "maker": "xAI",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/grok-build-0-1-max-tier-a1-c87d5d1162456.xm",
+      "listener": {
+        "content_enjoyment": 3.0462310314178467,
+        "production_quality": 4.319361686706543,
+        "content_usefulness": 4.400120258331299,
+        "production_complexity": 4.826529026031494
+      },
+      "sha256": "bf7efe7858ff01923fa65c08ff28b696f86547a0850757118f6211d0aab40d57"
+    },
+    {
+      "id": "grok-build-0-1-max-tier-a2-c87d5d1162456",
+      "model_key": "grok-build-0.1",
+      "maker": "xAI",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/grok-build-0-1-max-tier-a2-c87d5d1162456.xm",
+      "listener": {
+        "content_enjoyment": 3.355694532394409,
+        "production_quality": 5.2960286140441895,
+        "content_usefulness": 4.96875,
+        "production_complexity": 5.70676851272583
+      },
+      "sha256": "aa40ac20cfafdca2e3523232d622810049ed4e5649ef6b8f18cf0f24ae48f589"
+    },
+    {
+      "id": "grok-build-0-1-max-tier-a3-c87d5d1162456",
+      "model_key": "grok-build-0.1",
+      "maker": "xAI",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/grok-build-0-1-max-tier-a3-c87d5d1162456.xm",
+      "listener": {
+        "content_enjoyment": 1.9168800115585327,
+        "production_quality": 3.8970048427581787,
+        "content_usefulness": 2.8974595069885254,
+        "production_complexity": 2.8486502170562744
+      },
+      "sha256": "3b7db66424b36185fb531339da91f9908f2b71e92500973b347b6b8bbc6e96d6"
+    },
+    {
+      "id": "nemotron-3-ultra-max-tier-a1-ca1b2b0a76d8b",
+      "model_key": "nemotron-3-ultra",
+      "maker": "NVIDIA",
+      "url": "https://microck.github.io/keygen-bench-media/media/nemotron-3-ultra-max-tier-a1-ca1b2b0a76d8b.xm",
+      "listener": {
+        "content_enjoyment": 2.9485156536102295,
+        "production_quality": 5.758824825286865,
+        "content_usefulness": 5.13072395324707,
+        "production_complexity": 4.708558559417725
+      },
+      "sha256": "4dc171f096cfb67bab34f8f51f93cf8f9078eae9c7a17fcccc6d44aecbf9fe2b"
+    },
+    {
+      "id": "nemotron-3-ultra-max-tier-a2-ca1b2b0a76d8b",
+      "model_key": "nemotron-3-ultra",
+      "maker": "NVIDIA",
+      "url": "https://microck.github.io/keygen-bench-media/media/nemotron-3-ultra-max-tier-a2-ca1b2b0a76d8b.xm",
+      "listener": {
+        "content_enjoyment": 4.054073810577393,
+        "production_quality": 6.127242088317871,
+        "content_usefulness": 5.150180339813232,
+        "production_complexity": 4.426821708679199
+      },
+      "sha256": "d07443364295cd7fa31cabb73f933a0958ed2060896c2b23013be9ade4ebfff3"
+    },
+    {
+      "id": "nemotron-3-ultra-max-tier-a3-ca1b2b0a76d8b",
+      "model_key": "nemotron-3-ultra",
+      "maker": "NVIDIA",
+      "url": "https://microck.github.io/keygen-bench-media/media/nemotron-3-ultra-max-tier-a3-ca1b2b0a76d8b.xm",
+      "listener": {
+        "content_enjoyment": 2.772446393966675,
+        "production_quality": 4.800537586212158,
+        "content_usefulness": 3.8304502964019775,
+        "production_complexity": 4.852154731750488
+      },
+      "sha256": "77bab8b8d4dbee15f90b5b51f44a67e60f88cf123436defd58fe1fa2e974568b"
+    },
+    {
+      "id": "nvidia-nemotron-3-super-120b-a12b-free-max-tier-a1-c54a14c763ca1",
+      "model_key": "nemotron-3-super-120b-a12b",
+      "maker": "NVIDIA",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/nvidia-nemotron-3-super-120b-a12b-free-max-tier-a1-c54a14c763ca1.xm",
+      "listener": {
+        "content_enjoyment": 2.234417676925659,
+        "production_quality": 5.102906227111816,
+        "content_usefulness": 4.4060282707214355,
+        "production_complexity": 2.3746814727783203
+      },
+      "sha256": "02fad33024de8517dd265376cd605243a2392a9a68ac8be2b71a95f3c1c016bd"
+    },
+    {
+      "id": "nvidia-nemotron-3-super-120b-a12b-free-max-tier-a2-c54a14c763ca1",
+      "model_key": "nemotron-3-super-120b-a12b",
+      "maker": "NVIDIA",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/nvidia-nemotron-3-super-120b-a12b-free-max-tier-a2-c54a14c763ca1.xm",
+      "listener": {
+        "content_enjoyment": 2.470902681350708,
+        "production_quality": 5.124344825744629,
+        "content_usefulness": 4.744690895080566,
+        "production_complexity": 2.59596848487854
+      },
+      "sha256": "530de0aa3403abdb2c1c9c9141f247efb0c0e0d97fd03fdfff101768291fde9a"
+    },
+    {
+      "id": "nvidia-nemotron-3-super-120b-a12b-free-max-tier-a3-c54a14c763ca1",
+      "model_key": "nemotron-3-super-120b-a12b",
+      "maker": "NVIDIA",
+      "url": "https://microck.github.io/keygen-bench-media-2/media/nvidia-nemotron-3-super-120b-a12b-free-max-tier-a3-c54a14c763ca1.xm",
+      "listener": {
+        "content_enjoyment": 2.1990060806274414,
+        "production_quality": 5.6040496826171875,
+        "content_usefulness": 5.091390132904053,
+        "production_complexity": 2.095036506652832
+      },
+      "sha256": "a4772ff1145d6640e75840613564aa87bfda345b9c0b844d9821d3f52cf5207d"
+    }
+  ],
+  "source_sha256": "2ff8bbec28a02d0ccb11854cb117fd3195a0562e4b142174c61e9d59867c7d1d",
+  "spec_sha256": "17c0ee848a59af41f36fabf62ace8823a4007e81b8a0f9b14b70afb6b485b131",
+  "evaluation": "Leave-one-exact-model-out and leave-one-maker-out; fixed constant, entropy-only affine, frozenbase/entropybellcurve affine, fixedridge(lambda1). No searchtowardR\u00b2=.8.; duration/density affine nuisancebaseline and fullattribute-vector ridge(lambda1). Syntheticcontract fixesbeforecorpus comparison; no real outcome-based retuning."
+}

@@ -4,6 +4,12 @@
 
 ### Added
 
+- Versioned experimental static-scoring feature API with matched-core entropy, saturated recurrence, corroborated variant/evolution evidence, periodicity, rhythm/phrase proxies and cross-part attributes. Includes Mercury counterexamples, a frozen 51-attempt complexity study, retained failed score hypothesis and reproducible held-out predictions. No production score changes.
+
+- Section-to-section motif queries with channel/instrument occurrence witnesses, bounded local fragments, and conditional cross-part interval/motion attributes. Includes Opus5.5 extension and routing/harmonic-context tests; attribute aggregation remains separate research.
+
+- Experimental channel-free nominal event recurrence with bounded translation witnesses, cardinality-preserving null controls, delayed-copy sensitivity, and dedicated invariance tests. Research only; no evaluator or leaderboard behavior changes. See `docs/motif-events.md`.
+
 - Optional offline onset-symbol research diagnostics with a frozen specification, prequential coding and pitch-set transport descriptors, source hashes and explicit extraction eligibility. Synthetic regression tests retain failed continuity and loop-inflation hypotheses; no evaluator or leaderboard behavior changes.
 - Research-fork reading guide, graph gallery, controlled scoring counterexamples, historical listening links and reproducible roleplay/creativity/coding comparisons. Enjoyment is one comparison criterion; production scoring is unchanged.
 
